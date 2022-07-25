@@ -1,0 +1,22 @@
+{
+  "name": "rd-input",
+  "version": "1.0.0",
+  "description": "Basic input component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drrost/rd-input.git"
+  },
+  "author": "Rostyslav Druzhchenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drrost/rd-input/issues"
+  },
+  "homepage": "https://github.com/drrost/rd-input#readme",
+  "files": [
+    "index.js"
+  ]
+}
